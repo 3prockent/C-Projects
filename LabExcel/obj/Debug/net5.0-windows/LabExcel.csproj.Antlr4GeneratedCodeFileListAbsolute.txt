@@ -1,0 +1,6 @@
+C:\Vlad\C# Projects\LabExcel\obj\Debug\net5.0-windows\LabCalculatorLexer.cs
+C:\Vlad\C# Projects\LabExcel\obj\Debug\net5.0-windows\LabCalculatorParser.cs
+C:\Vlad\C# Projects\LabExcel\obj\Debug\net5.0-windows\LabCalculatorListener.cs
+C:\Vlad\C# Projects\LabExcel\obj\Debug\net5.0-windows\LabCalculatorBaseListener.cs
+C:\Vlad\C# Projects\LabExcel\obj\Debug\net5.0-windows\LabCalculatorVisitor.cs
+C:\Vlad\C# Projects\LabExcel\obj\Debug\net5.0-windows\LabCalculatorBaseVisitor.cs

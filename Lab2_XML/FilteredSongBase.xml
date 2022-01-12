@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SongDataBase>
+  <song SongName="Three Nil" BandName="Slipknot" Genre="ROCK" Album="Vol 3" Duration="4:49" ReleaseYear="2004" />
+  <song SongName="Duality" BandName="Slipknot" Genre="ROCK" Album="Vol 3" Duration="3:33" ReleaseYear="2004" />
+  <song SongName="People=Shit" BandName="Slipknot" Genre="ROCK" Album="Iowa" Duration="3:35" ReleaseYear="2001" />
+  <song SongName="Psychosocial" BandName="Slipknot" Genre="ROCK" Album="Punisher: War Zone" Duration="5:05" ReleaseYear="2008" />
+  <song SongName="To Be Love" BandName="Papa Roach" Genre="ROCK" Album="The Paramour Sessions" Duration="3:26" ReleaseYear="2006" />
+  <song SongName="Be Free" BandName="Papa Roach" Genre="ROCK" Album="Getting Away with Murder" Duration="3:22" ReleaseYear="2004" />
+  <song SongName="Je Veux" BandName="zaz" Genre="JAZZ" Album="Zaz" Duration="3:36" ReleaseYear="2010" />
+  <song SongName="SING, SING, SING" BandName="Benny Goodman" Genre="JAZZ" Album="Unknown album" Duration="5:23" ReleaseYear="1937" />
+  <song SongName="Waiting For love" BandName="Avicii" Genre="EDM" Album="Stories" Duration="3:50" ReleaseYear="2015" />
+  <song SongName="Wake Me Up" BandName="Avicii" Genre="EDM" Album="True" Duration="4:32" ReleaseYear="2013" />
+  <song SongName="You Make Me" BandName="Avicii" Genre="EDM" Album="True" Duration="3:50" ReleaseYear="2013" />
+</SongDataBase>
