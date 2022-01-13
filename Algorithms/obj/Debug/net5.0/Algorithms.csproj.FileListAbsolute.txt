@@ -1,0 +1,16 @@
+C:\Vlad\C# Projects\Algorithms\bin\Debug\net5.0\Algorithms.exe
+C:\Vlad\C# Projects\Algorithms\bin\Debug\net5.0\Algorithms.deps.json
+C:\Vlad\C# Projects\Algorithms\bin\Debug\net5.0\Algorithms.runtimeconfig.json
+C:\Vlad\C# Projects\Algorithms\bin\Debug\net5.0\Algorithms.runtimeconfig.dev.json
+C:\Vlad\C# Projects\Algorithms\bin\Debug\net5.0\Algorithms.dll
+C:\Vlad\C# Projects\Algorithms\bin\Debug\net5.0\ref\Algorithms.dll
+C:\Vlad\C# Projects\Algorithms\bin\Debug\net5.0\Algorithms.pdb
+C:\Vlad\C# Projects\Algorithms\obj\Debug\net5.0\Algorithms.csproj.AssemblyReference.cache
+C:\Vlad\C# Projects\Algorithms\obj\Debug\net5.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vlad\C# Projects\Algorithms\obj\Debug\net5.0\Algorithms.AssemblyInfoInputs.cache
+C:\Vlad\C# Projects\Algorithms\obj\Debug\net5.0\Algorithms.AssemblyInfo.cs
+C:\Vlad\C# Projects\Algorithms\obj\Debug\net5.0\Algorithms.csproj.CoreCompileInputs.cache
+C:\Vlad\C# Projects\Algorithms\obj\Debug\net5.0\Algorithms.dll
+C:\Vlad\C# Projects\Algorithms\obj\Debug\net5.0\ref\Algorithms.dll
+C:\Vlad\C# Projects\Algorithms\obj\Debug\net5.0\Algorithms.pdb
+C:\Vlad\C# Projects\Algorithms\obj\Debug\net5.0\Algorithms.genruntimeconfig.cache
